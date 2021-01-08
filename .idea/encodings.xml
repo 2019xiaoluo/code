@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/Demo/DataBaseTest/DatabaseConnection.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Demo/DataBaseTest/DemoDate01.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Demo/DataBaseTest/DemoFrameAdd.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Demo/DataBaseTest/DemoFrameShow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Demo/DataBaseTest/OperateDatabase.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Demo/DataBaseTest/PageController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Demo/xxt/dsq/Demo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Demo/xxt/dsq/StuOperate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Demo/xxt/lzj/experimentIO/DemoFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Demo/xxt/lzj/experimentIO/DemoFramexhsort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Demo/xxt/lzj/experimentIO/DemoStudentIO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Demo02Study/lzj/fqq/ForgetMm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Excel/Demo/DemoExcel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Excel/Demo/OperateExcel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/jsu/lzj/sms/dao/ScjDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/jsu/lzj/sms/dao/StudentDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/jsu/lzj/sms/frm/LoginFrm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/jsu/lzj/sms/frm/test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/jsu/lzj/sms/vo/Course.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/jsu/lzj/sms/vo/Scj.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/jsu/lzj/sms/vo/Student.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
