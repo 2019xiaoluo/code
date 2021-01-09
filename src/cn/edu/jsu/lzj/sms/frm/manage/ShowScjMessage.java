@@ -49,7 +49,7 @@ public class ShowScjMessage extends JDialog {
 	private ShowScjMessage() {
 		setDefaultCloseOperation(JDialog.DISPOSE_ON_CLOSE);
 		Vector<String> titles=new Vector<>();
-		Collections.addAll(titles, "课程号","学号","成绩");
+		Collections.addAll(titles, "课程号","课程名","学号","姓名","成绩");
 
 
 		setTitle("学生课程统计与查看");
@@ -176,7 +176,9 @@ public class ShowScjMessage extends JDialog {
 				Scj s=(Scj) o;
 				Vector row=new Vector();
 				row.add(s.getCno());
+				row.add(CourseDAO.findNameByCno(s.getCno()));
 				row.add(s.getSno());
+				row.add(StudentDAO.findNameBySno(s.getSno()));
 				row.add(s.getGrade());
 				model.addRow(row);
 			}
@@ -196,7 +198,9 @@ public class ShowScjMessage extends JDialog {
 				Scj s=(Scj) o;
 				Vector row=new Vector();
 				row.add(s.getCno());
+				row.add(CourseDAO.findNameByCno(s.getCno()));
 				row.add(s.getSno());
+				row.add(StudentDAO.findNameBySno(s.getSno()));
 				row.add(s.getGrade());
 				model.addRow(row);
 			}
@@ -222,7 +226,9 @@ public class ShowScjMessage extends JDialog {
 				Scj s=(Scj) o;
 				Vector row=new Vector();
 				row.add(s.getCno());
+				row.add(CourseDAO.findNameByCno(s.getCno()));
 				row.add(s.getSno());
+				row.add(StudentDAO.findNameBySno(s.getSno()));
 				row.add(s.getGrade());
 				model.addRow(row);
 			}
